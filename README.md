@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Proceso del Proyecto.
-Primeramente estoy realmente agradecido con Kruger por la oportunidad que me dio de realizar este desafio, debido al tiempo y para cumplir con la parte del desafio y puedan revisar mi correo, decidi encontrar lasm siguientes soluciones para sacar el proyecto y poderlo presentar.
+Primeramente estoy realmente agradecido con Kruger por la oportunidad que me dio de realizar este desafio, debido al tiempo y para cumplir con la parte del desafio y puedan cumplir con las fechas establecidas, decidi encontrar las siguientes soluciones para sacar el proyecto y poderlo presentar.
 
 CRUD (Para el administrador) (Insertar, Consultar, Actualizar y Eliminar)
 
